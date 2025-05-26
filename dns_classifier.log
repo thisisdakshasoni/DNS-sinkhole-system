@@ -1,0 +1,67 @@
+2025-05-26 04:18:38,647 [INFO] Started behavioral DNS sinkhole daemon.
+2025-05-26 04:18:38,826 [INFO] Sinkhole file updated with 2 domains.
+2025-05-26 04:18:40,026 [INFO] Unbound DNS reloaded successfully.
+2025-05-26 04:23:40,700 [INFO] Suspicious domain detected: connectivity-check.ubuntu.com (Count=13, TTL=0.00, Entropy=3.69)
+2025-05-26 04:23:40,776 [INFO] Sinkhole file updated with 6 domains.
+2025-05-26 04:23:42,939 [INFO] Unbound DNS reloaded successfully.
+2025-05-26 04:26:10,095 [INFO] Daemon interrupted and stopped.
+2025-05-26 04:33:14,016 [INFO] Started behavioral DNS sinkhole daemon.
+2025-05-26 04:33:14,233 [INFO] Suspicious domain detected: connectivity-check.ubuntu.com (Count=9, TTL=0.00, Entropy=3.69)
+2025-05-26 04:33:14,233 [INFO] Suspicious domain detected: com (Count=6, TTL=0.00, Entropy=1.58)
+2025-05-26 04:33:14,244 [INFO] Sinkhole file updated with 7 domains.
+2025-05-26 04:33:15,163 [INFO] Unbound DNS reloaded successfully.
+2025-05-26 04:38:15,923 [INFO] Suspicious domain detected: connectivity-check.ubuntu.com (Count=18, TTL=0.00, Entropy=3.69)
+2025-05-26 04:38:15,991 [INFO] Suspicious domain detected: com (Count=12, TTL=0.00, Entropy=1.58)
+2025-05-26 04:38:15,992 [INFO] Suspicious domain detected: ubuntu.com (Count=8, TTL=0.00, Entropy=2.85)
+2025-05-26 04:38:16,013 [INFO] Sinkhole file updated with 7 domains.
+2025-05-26 04:38:17,416 [INFO] Unbound DNS reloaded successfully.
+2025-05-26 04:38:23,551 [INFO] Daemon interrupted and stopped.
+2025-05-26 04:40:27,229 [INFO] Started behavioral DNS sinkhole daemon.
+2025-05-26 04:40:27,298 [INFO] Suspicious domain detected: connectivity-check.ubuntu.com (Count=9, TTL=0.00, Entropy=3.69)
+2025-05-26 04:40:27,298 [INFO] Suspicious domain detected: com (Count=6, TTL=0.00, Entropy=1.58)
+2025-05-26 04:40:27,299 [INFO] Sinkhole file updated with 7 domains.
+2025-05-26 04:40:27,517 [INFO] Unbound DNS reloaded successfully.
+2025-05-26 04:45:28,363 [INFO] Suspicious domain detected: connectivity-check.ubuntu.com (Count=18, TTL=0.00, Entropy=3.69)
+2025-05-26 04:45:28,394 [INFO] Suspicious domain detected: com (Count=12, TTL=0.00, Entropy=1.58)
+2025-05-26 04:45:28,394 [INFO] Suspicious domain detected: ubuntu.com (Count=8, TTL=0.00, Entropy=2.85)
+2025-05-26 04:45:28,401 [INFO] Sinkhole file updated with 7 domains.
+2025-05-26 04:45:28,726 [ERROR] Failed to reload Unbound. Check systemctl and permissions.
+2025-05-26 04:50:29,715 [INFO] Suspicious domain detected: connectivity-check.ubuntu.com (Count=27, TTL=0.00, Entropy=3.69)
+2025-05-26 04:50:29,764 [INFO] Suspicious domain detected: com (Count=18, TTL=0.00, Entropy=1.58)
+2025-05-26 04:50:29,764 [INFO] Suspicious domain detected: ubuntu.com (Count=12, TTL=0.00, Entropy=2.85)
+2025-05-26 04:50:29,764 [INFO] Suspicious domain detected: ns3.canonical.com (Count=6, TTL=0.00, Entropy=3.18)
+2025-05-26 04:50:29,785 [INFO] Sinkhole file updated with 7 domains.
+2025-05-26 04:50:31,526 [INFO] Unbound DNS reloaded successfully.
+2025-05-26 04:55:32,260 [INFO] Suspicious domain detected: connectivity-check.ubuntu.com (Count=36, TTL=0.00, Entropy=3.69)
+2025-05-26 04:55:32,288 [INFO] Suspicious domain detected: com (Count=24, TTL=0.00, Entropy=1.58)
+2025-05-26 04:55:32,288 [INFO] Suspicious domain detected: ubuntu.com (Count=16, TTL=0.00, Entropy=2.85)
+2025-05-26 04:55:32,288 [INFO] Suspicious domain detected: ns3.canonical.com (Count=8, TTL=0.00, Entropy=3.18)
+2025-05-26 04:55:32,306 [INFO] Sinkhole file updated with 7 domains.
+2025-05-26 04:55:33,337 [INFO] Unbound DNS reloaded successfully.
+2025-05-26 04:56:00,511 [INFO] Daemon interrupted and stopped.
+2025-05-26 05:37:46,231 [INFO] Started behavioral DNS sinkhole daemon.
+2025-05-26 05:37:47,032 [INFO] Suspicious domain detected: connectivity-check.ubuntu.com (Count=9, TTL=0.00, Entropy=3.69)
+2025-05-26 05:37:47,033 [INFO] Suspicious domain detected: com (Count=8, TTL=0.00, Entropy=1.58)
+2025-05-26 05:37:47,033 [INFO] Suspicious domain detected: ns-1737.awsdns-25.co.uk (Count=10, TTL=0.00, Entropy=3.85)
+2025-05-26 05:37:47,034 [INFO] Suspicious domain detected: infra-cdn.elastic.co (Count=14, TTL=0.00, Entropy=3.68)
+2025-05-26 05:37:47,047 [INFO] Sinkhole file updated with 23 domains.
+2025-05-26 05:37:48,069 [INFO] Unbound DNS reloaded successfully.
+2025-05-26 05:38:01,823 [INFO] Daemon interrupted and stopped.
+2025-05-26 05:40:56,929 [INFO] Started behavioral DNS sinkhole daemon.
+2025-05-26 05:40:57,656 [INFO] Suspicious domain detected: connectivity-check.ubuntu.com (Count=9, TTL=0.00, Entropy=3.69)
+2025-05-26 05:40:57,660 [INFO] Suspicious domain detected: com (Count=8, TTL=0.00, Entropy=1.58)
+2025-05-26 05:40:57,660 [INFO] Suspicious domain detected: ns-1737.awsdns-25.co.uk (Count=10, TTL=0.00, Entropy=3.85)
+2025-05-26 05:40:57,661 [INFO] Suspicious domain detected: infra-cdn.elastic.co (Count=14, TTL=0.00, Entropy=3.68)
+2025-05-26 05:40:57,668 [INFO] Sinkhole file updated with 23 domains.
+2025-05-26 05:40:58,283 [INFO] Unbound DNS reloaded successfully.
+2025-05-26 05:45:59,448 [INFO] Suspicious domain detected: connectivity-check.ubuntu.com (Count=18, TTL=0.00, Entropy=3.69)
+2025-05-26 05:45:59,540 [INFO] Suspicious domain detected: com (Count=16, TTL=0.00, Entropy=1.58)
+2025-05-26 05:45:59,541 [INFO] Suspicious domain detected: ubuntu.com (Count=8, TTL=0.00, Entropy=2.85)
+2025-05-26 05:45:59,541 [INFO] Suspicious domain detected: ns-785.awsdns-34.net (Count=6, TTL=0.00, Entropy=3.65)
+2025-05-26 05:45:59,542 [INFO] Suspicious domain detected: awsdns-25.co.uk (Count=8, TTL=0.00, Entropy=3.64)
+2025-05-26 05:45:59,542 [INFO] Suspicious domain detected: ns-1737.awsdns-25.co.uk (Count=20, TTL=0.00, Entropy=3.85)
+2025-05-26 05:45:59,543 [INFO] Suspicious domain detected: ns-1168.awsdns-18.org (Count=6, TTL=0.00, Entropy=3.56)
+2025-05-26 05:45:59,543 [INFO] Suspicious domain detected: infra-cdn.elastic.co (Count=28, TTL=0.00, Entropy=3.68)
+2025-05-26 05:45:59,564 [INFO] Sinkhole file updated with 23 domains.
+2025-05-26 05:46:15,382 [INFO] Unbound DNS reloaded successfully.
+2025-05-26 05:49:18,119 [INFO] Daemon interrupted and stopped.
